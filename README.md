@@ -1,7 +1,7 @@
 loads
 =====
 
-"__L__ist" __o__f __a__lgorithms and __d__ata __s__tructures. 
+"**L**ist" **o**f **a**lgorithms and **d**ata **s**tructures. 
 
 License
 -------
