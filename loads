@@ -1,0 +1,3 @@
+#!/usr/bin/env python3
+
+print('generate a source file with comments in a certain language')
